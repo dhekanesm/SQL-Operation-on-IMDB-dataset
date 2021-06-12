@@ -7,6 +7,7 @@ The purpose of this project is to do the following:
 2.	Learn the essentials of database design, e.g., Entity-Relationship diagrams, logical schema, and database normalization.
 3.	Practice database querying by posing basic and more advanced queries using MySQL directly and also indirectly using python.
 4.	Visualize IMDb data using python.
+
 The tangible steps we will take in this project are:
 1.	Understand the data in the IMDb dataset.
 2.	Design a relational database and store the IMDb data in it.
